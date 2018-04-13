@@ -1,0 +1,1 @@
+package com.spacexdata.pojo;import com.google.gson.annotations.Expose;import com.google.gson.annotations.SerializedName;public class Telemetry {    @SerializedName("flight_club")    @Expose    public String flightClub;}
